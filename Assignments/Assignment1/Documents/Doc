@@ -1,1 +1,49 @@
 Upload your assignment here
+
+
+Five questions :- 
+
+
+
+1) What was the primary concern of Djikstra that he mentioned in his 1969 paper :-
+
+a) Program size					b) Program correctness
+
+c) Structured Programming 			d) labour involved in verifying the correct composition of whole program
+
+Answer :- b)
+
+
+
+
+
+2) Djikstra gave constructive approach to demonstrate ____________.
+
+Answer :- the need for introduction of abstract statements.
+
+
+
+
+
+3) As per djikstra's model of program's as necklaces the top pearl describes a)________  and the bottom pearl defines b) ________ .
+
+Answer :- a) the program in its most abstract form   b)  what still has to be explained in terms of a standard interface
+
+
+
+
+4) On which type of programs did djikstra made his concluding remarks :-
+
+a) small programs  										b) Complex programs
+
+c)  large programs										d)  Abstract Programs
+
+
+
+
+
+5) To allow effective formal  manipulation, which essential things a language should have :-
+
+a) syntax that is context-free  			   b) a semantics that is free of side-effects  
+
+c) a well chosen set of primitive operations		   d) Graphics quality
