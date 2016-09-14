@@ -32,3 +32,19 @@ Week4
 3) Learnt what is requirement and it's use and importance in a product.
 4) Learnt how to define relationships between requirement and other various aspects of a project ambiguously.
 5) Learnt to represent real life problems in a well mannered way.
+
+Week5
+
+1) EVOLUTIONARY MODEL
+	- Tests increments individually and easily
+	- Total software is divided into small chunks.
+	- Each chunk is then devoloped and given to the customers.
+	- Feedback is taken for each version and change of plans or process are made according to them.
+	- Hard to divide into modules.
+2) AGILE MODEL
+	-INDIVIDUALS      - process plans
+	-SOFTWARE PRODUCT - documentation
+3) XP Extreme Programming(Pair Programming):
+	-Everyone codes and thinks.
+There are many process assesments and CMMI is one of them.
+4) Project discussion 
